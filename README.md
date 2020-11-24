@@ -1,1 +1,2 @@
-# Quizbuzz
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
